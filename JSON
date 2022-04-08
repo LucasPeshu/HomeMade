@@ -1,0 +1,182 @@
+{
+    "Viandas": [
+        {
+            "id": "1",
+            "nombre": "Menú clásico",
+            "Ingredientes": "",
+            "Precio": "350"
+        },
+        {
+            "id": "2",
+            "nombre": "Menú saludable",
+            "Ingredientes": "",
+            "Precio": "350"
+        }
+    ],
+    "Hamburgesas": [
+        {
+            "id": "1",
+            "nombre": "Hamburgesa Americana",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, lechuga, tomate, cheddar, panceta y cebolla morada.",
+            "Precio": ""
+        },
+        {
+            "id": "2",
+            "nombre": "Hamburgesa Smoke Shake",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, cheddar, panceta, pimientos asados y salsa tabasco.",
+            "Precio": ""
+        },
+        {
+            "id": "3",
+            "nombre": "Hamburgesa Oklahoma fried onion",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, cebolla a la plancha y cheddar.",
+            "Precio": ""
+        },
+        {
+            "id": "4",
+            "nombre": "Hamburgesa Estilo in- n- out",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, lechuga, tomate, medallón de cebolla asada y panceta.",
+            "Precio": ""
+        },
+        {
+            "id": "5",
+            "nombre": "Hamburgesa Doble Nelson",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, doble cheddar, doble panceta.",
+            "Precio": ""
+        },
+        {
+            "id": "6",
+            "nombre": "Hamburgesa La Roman",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, rúcula, queso tybo, queso azul, cebollas caramelizadas.",
+            "Precio": ""
+        },
+        {
+            "id": "7",
+            "nombre": "Hamburgesa Especial",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, queso tybo, jamón cocido, lechuga, tomate y huevo",
+            "Precio": ""
+        },
+        {
+            "id": "8",
+            "nombre": "Hamburgesa Común",
+            "Ingredientes": "Doble medallón de carne, pan de papa, aderezo especial, queso tybo, lechuga, tomate.",
+            "Precio": ""
+        }
+    ],
+    "Pizzas": [
+        {
+            "id": "1",
+            "nombre": "Pizza de Rúculua y crudo",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, rúcula, jamón crudo, queso parmesano, aceite de oliva y olivas negras.",
+            "Precio": ""
+        },
+        {
+            "id": "2",
+            "nombre": "Pizza de Tomate, ajo y albahaca",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, tomates en cubos con ajo picado, albahaca y olivas negras",
+            "Precio": ""
+        },
+        {
+            "id": "3",
+            "nombre": "Pizza de Tres quesos",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, queso roquefort, queso parmesano, olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "4",
+            "nombre": "Pizza de Fugazzeta",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, cebollas caramelizadas y olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "5",
+            "nombre": "Pizza de  Muzzarrella",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella y olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "6",
+            "nombre": "Pizza Especial",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, jamón cocido, morrones asados y olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "7",
+            "nombre": "Pizza Especial con huevo",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, jamón cocido, huevo, morrones asados y olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "8",
+            "nombre": "Pizza Especial con anchoas",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, jamón cocido, anchoas, morrones asados y olivas verdes.",
+            "Precio": ""
+        },
+        {
+            "id": "9",
+            "nombre": "Pizza Super especial ",
+            "Ingredientes": "Masa casera, salsa de tomates frescos, queso muzzarella, jamón cocido, huevo, anchoas, morrones asados y olivas verdes.",
+            "Precio": ""
+        }
+    ],
+    "Lomos": [
+        {
+            "id": "1",
+            "nombre": "Lomo de ternera común",
+            "Ingredientes": "Lomo de ternera, mayonesa, lechuga, tomate y queso.",
+            "Precio": ""
+        },
+        {
+            "id": "2",
+            "nombre": "Lomo de ternera completo",
+            "Ingredientes": "Lomo de ternera, mayonesa, lechuga, tomate, queso, jamón y huevo.",
+            "Precio": ""
+        },
+        {
+            "id": "3",
+            "nombre": "Lomo de pollo común",
+            "Ingredientes": "Lomo de pollo, mayonesa, lechuga, tomate y queso.",
+            "Precio": ""
+        },
+        {
+            "id": "4",
+            "nombre": "Lomo de pollo completo",
+            "Ingredientes": "Lomo de pollo, mayonesa, lechuga, tomate, queso, jamón y huevo.",
+            "Precio": ""
+        }
+    ],
+    "Sandwiches": [
+        {
+            "id": "1",
+            "nombre": "Sandwich de bondiola braseada",
+            "Ingredientes": "Bondiola, mayo, mostaza y coleslaw.",
+            "Precio": ""
+        }
+    ],
+    "Empanadas": [
+        {
+            "id": "1",
+            "nombre": "Empanada árabe",
+            "Ingredientes": "",
+            "Precio": ""
+        },
+        {
+            "id": "1",
+            "nombre": "Empanada salada",
+            "Ingredientes": "",
+            "Precio": ""
+        },
+        {
+            "id": "1",
+            "nombre": "Empanada dulce",
+            "Ingredientes": "",
+            "Precio": ""
+        },
+        {
+            "id": "1",
+            "nombre": "Empanada jamón y queso",
+            "Ingredientes": "jamón y queso",
+            "Precio": ""
+        }
+    ]
+}
